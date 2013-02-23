@@ -2,6 +2,12 @@
 en:
   world:
     us:
+      aa:
+        name: AA (APO)
+      ae:
+        name: AE (APO)
+      ae:
+        name: AP (APO)
       ak:
         name: Alaska
       al:
